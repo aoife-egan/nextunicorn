@@ -1,0 +1,41 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextunicorn-dev-143841-authRole",
+      "UnauthRoleArn": "arn:aws:iam::312065113749:role/amplify-nextunicorn-dev-143841-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::312065113749:role/amplify-nextunicorn-dev-143841-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-nextunicorn-dev-143841-deployment",
+      "UnauthRoleName": "amplify-nextunicorn-dev-143841-unauthRole",
+      "StackName": "amplify-nextunicorn-dev-143841",
+      "StackId": "arn:aws:cloudformation:eu-west-1:312065113749:stack/amplify-nextunicorn-dev-143841/9ce503b0-fb72-11eb-9647-06cdf5246ecb",
+      "AmplifyAppId": "d3ttbnwtcxiozt"
+    }
+  },
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextunicorn-prod-144222-authRole",
+      "UnauthRoleArn": "arn:aws:iam::312065113749:role/amplify-nextunicorn-prod-144222-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::312065113749:role/amplify-nextunicorn-prod-144222-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-nextunicorn-prod-144222-deployment",
+      "UnauthRoleName": "amplify-nextunicorn-prod-144222-unauthRole",
+      "StackName": "amplify-nextunicorn-prod-144222",
+      "StackId": "arn:aws:cloudformation:eu-west-1:312065113749:stack/amplify-nextunicorn-prod-144222/1f625180-fb73-11eb-93eb-06e3adec65fd",
+      "AmplifyAppId": "d3ttbnwtcxiozt"
+    }
+  },
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextunicorn-staging-144736-authRole",
+      "UnauthRoleArn": "arn:aws:iam::312065113749:role/amplify-nextunicorn-staging-144736-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::312065113749:role/amplify-nextunicorn-staging-144736-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-nextunicorn-staging-144736-deployment",
+      "UnauthRoleName": "amplify-nextunicorn-staging-144736-unauthRole",
+      "StackName": "amplify-nextunicorn-staging-144736",
+      "StackId": "arn:aws:cloudformation:eu-west-1:312065113749:stack/amplify-nextunicorn-staging-144736/daa55050-fb73-11eb-987f-0a6c8a97eb39",
+      "AmplifyAppId": "d3ttbnwtcxiozt"
+    }
+  }
+}
